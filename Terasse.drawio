@@ -887,7 +887,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="90x90" id="4RoUFKmP-yRVDEgHAyce">
-    <mxGraphModel dx="2171" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Th1t8-swOj5VhlnhkKSZ-0" />
         <mxCell id="Th1t8-swOj5VhlnhkKSZ-1" parent="Th1t8-swOj5VhlnhkKSZ-0" />
@@ -1151,6 +1151,18 @@
         </mxCell>
         <mxCell id="YNhGTNt8CpmgQAeDO5x_-6" parent="Th1t8-swOj5VhlnhkKSZ-1" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;labelBackgroundColor=none;horizontal=0;spacingTop=-15;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="17" vertex="1">
           <mxGeometry height="17" width="65" x="-5" y="798" as="geometry" />
+        </mxCell>
+        <mxCell id="YNhGTNt8CpmgQAeDO5x_-7" parent="Th1t8-swOj5VhlnhkKSZ-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0050ef;fontColor=#ffffff;" value="Lichtschacht" vertex="1">
+          <mxGeometry height="40" width="160" x="880" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="YNhGTNt8CpmgQAeDO5x_-8" parent="Th1t8-swOj5VhlnhkKSZ-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="Kiesstreifen" vertex="1">
+          <mxGeometry height="40" width="160" x="880" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="YNhGTNt8CpmgQAeDO5x_-10" parent="Th1t8-swOj5VhlnhkKSZ-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#B3B3B3);" value="Bisherige Terrasse" vertex="1">
+          <mxGeometry height="40" width="160" x="880" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="YNhGTNt8CpmgQAeDO5x_-11" parent="Th1t8-swOj5VhlnhkKSZ-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=none;" value="Haus bzw Gartenhaus" vertex="1">
+          <mxGeometry height="40" width="160" x="880" y="880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
